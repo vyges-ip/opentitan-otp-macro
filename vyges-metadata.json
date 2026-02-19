@@ -5,6 +5,14 @@
   "source": {
     "type": "git",
     "url": "https://github.com/lowRISC/opentitan",
-    "commit": "304378684dfcf5be73bbd14faffa71790793d8c6"
-  }
+    "commit": "304378684dfcf5be73bbd14faffa71790793d8c6",
+    "rtl_path": "rtl",
+    "rtl_files": [
+      "rtl/otp_macro.sv",
+      "rtl/otp_macro_pkg.sv",
+      "rtl/otp_macro_prim_reg_top.sv",
+      "rtl/otp_macro_reg_pkg.sv"
+    ]
+  },
+  "updated": "2026-02-19T06:03:45Z"
 }
