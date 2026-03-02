@@ -3,8 +3,8 @@ upstream:
   type: "monorepo"
   source: https://github.com/lowRISC/opentitan
   path: hw/ip/otp_macro
-  commit: 2b4dd848d9d539fedd293797c081cc5ad44e061e
-  extracted_at: "2026-02-16T01:51:01Z"
+  commit: 01cdeb9d64868d45aa7b0402760f2a3f27f18246
+  extracted_at: "2026-03-02T01:48:44Z"
 import:
   rtl:
     - path: "rtl"
